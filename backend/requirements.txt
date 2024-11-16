@@ -1,0 +1,16 @@
+Django
+djangorestframework
+channels
+channels-redis
+djangorestframework-simplejwt
+psycopg2-binary
+python-decouple
+dj-database-url
+django-cors-headers
+pytest
+pytest-django
+gunicorn
+whitenoise
+requests
+websocket-client
+spotipy
