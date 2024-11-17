@@ -1,0 +1,6 @@
+1.cd backend
+2.docker build -t name-as-u-want .
+if creating container on ur own->docker run --name container-name -p 8001:8000 image-name
+then--->check localhost 8001
+if using docker compose ---> docker compose up -d
+
